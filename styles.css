@@ -1,0 +1,39 @@
+h3 {
+  font-size: 18pt;
+  margin: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+body {
+  width: 310px;
+  padding: 10px;
+  border: 1px solid #DDDDDD;
+  border-radius: 15px;
+  box-shadow: 5px 5px #EEEEEE;
+}
+
+.info {
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #DDDDDD;
+  border-radius: 15px;
+}
+
+img {
+  margin: 5px;
+  border-radius: 15px;
+}
+
+.fact {
+  font-style: italic;
+}
+
+.list {
+  padding-left: 0;
+  list-style: none;
+}
+
+span {
+  font-weight: bold;
+}
